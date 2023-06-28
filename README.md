@@ -1,0 +1,2 @@
+# Mail-Application-with-GUI-Code-clause-Internship-Code-clause
+This Python-based mail application features a user-friendly GUI. Users can input sender's email, password, recipient's email, subject, and message. It validates form fields, connects to the SMTP server securely, and sends emails. Simplifying email composition and sending, it offers a streamlined experience for users of all technical levels
